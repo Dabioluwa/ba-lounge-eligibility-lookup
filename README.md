@@ -3,7 +3,7 @@
 A data-calibrated model that estimates **how many passengers will be eligible for each
 British Airways lounge tier** at London Heathrow **Terminal 3**, using nothing more than a
 flight's **route group** and **time of day**. Built as part of the
-**British Airways Data Science Job Simulation on [Forage](https://www.theforage.com/)** (Task 1).
+**British Airways Data Science Job Simulation on [Forage](https://www.theforage.com/virtual-experience/NjynCWzGSaWXQCxSX/british-airways/data-science-yqoz/modeling-lounge-eligibility-at-heathrow-terminal-3?step=1)** (Task 1).
 
 ---
 
